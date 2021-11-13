@@ -1,5 +1,5 @@
 # Discord Bot #
 
-Security Bot for youzr Server to prevent raids and more
+Security Bot for your Server to prevent raids and more
 
 ## How to add ##
